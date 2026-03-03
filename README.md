@@ -1,5 +1,5 @@
 <h1 align="center"><b> Hi there 👋</b></h1>
-<p>
+<p align="center">
 <img src="https://github.com/Kitocsana.png" width="150" height="150" style="border-radius:50%">
 </p>
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
