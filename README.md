@@ -1,7 +1,18 @@
 <h1 align="center"><b> Hi there 👋</b></h1>
-<p align="center">
-<img src="https://github.com/Kitocsana.png" width="150" height="150" style="border-radius:50%">
-</p>
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="75" cy="75" r="75" />
+    </clipPath>
+  </defs>
+  <image
+    align="center"
+    width="150" 
+    height="150" 
+    href="https://github.com/Kitocsana.png" 
+    clip-path="url(#circleView)" 
+  />
+</svg>
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
