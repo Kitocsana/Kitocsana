@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning tech stack:
-Vue.js
+#Vue.js
 Inertia
 Laravel 12
 <!--
