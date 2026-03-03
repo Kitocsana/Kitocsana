@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🌱 I’m currently learning tech stack:
-- Vue.js
-- Inertia
-- Laravel 12
+Vue.js
+Inertia
+Laravel 12
 <!--
 **Kitocsana/Kitocsana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
