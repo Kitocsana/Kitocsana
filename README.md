@@ -1,5 +1,7 @@
 <h1 align="center"><b> Hi there 👋</b></h1>
-<img align="center"  src="https://github.com/Kitocsana.png" width="150" height="150" style="border-radius:50%">
+<p>
+<img src="https://github.com/Kitocsana.png" width="150" height="150" style="border-radius:50%">
+</p>
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
