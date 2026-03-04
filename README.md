@@ -1,4 +1,6 @@
+<div style="background: red">
 <h1 align="center"><b> Hi there 👋</b></h1>
+</div>
 <p align="center">
 <img src="https://github.com/Kitocsana.png" width="150" height="150" style="border-radius:50%">
 </p>
